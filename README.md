@@ -7,7 +7,9 @@
 - 💬 Ask me about ...
 -->
 - 📫 How to reach me: sungil.lee90@gmail.com
+<!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 - 👨‍💻 All of my projects are available at https://github.com/sungillee90
 
