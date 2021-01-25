@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Elixer and Phoenix, and React.
 - 📫 How to reach me: sungil.lee90@gmail.com
 
-https://github-readme-stats.vercel.app/api?username=sungillee90&show_icons=true
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sungillee90&show_icons=true)
 
 
 
