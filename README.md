@@ -1,7 +1,7 @@
 ### Hi 👋, I am Sung Il
 
-- 👨‍💻 All of my projects are available at https://github.com/sungillee90
-- 🔭 I’m currently working on https://github.com/sungillee90/phoenixPractice
+
+- 🔭 I’m currently working on Elixir and Phoenix https://github.com/sungillee90/phoenixPractice
 - 🌱 I’m currently learning Elixer and Phoenix, and React.
 - 📫 How to reach me: sungil.lee90@gmail.com
 
