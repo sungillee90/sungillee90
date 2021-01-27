@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on Elixir and Phoenix https://github.com/sungillee90/phoenixPractice
 - 🌱 I’m currently learning Elixer and Phoenix, and React.
 - 📫 How to reach me: sungil.lee90@gmail.com
+- 📄 Learn more about me: https://www.linkedin.com/in/sungillee/
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sungillee90&show_icons=true)
 
