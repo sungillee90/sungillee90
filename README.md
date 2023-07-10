@@ -1,7 +1,7 @@
 ### Hi 👋, I am Sung Il
 
 
-<!-- - 🔭 I’m currently working on Elixir and Phoenix -->
+<!-- - 🔭 I’m currently working on Elixir and Phoenix
 - 🌱 I’m currently learning Elixer and Phoenix, and React.
 - 📫 How to reach me: sungil.lee90@gmail.com
 - 📄 Know more about me: https://www.linkedin.com/in/sungillee/
@@ -23,3 +23,4 @@
 - ⚡ Fun fact: ...
 -->
 
+ -->
